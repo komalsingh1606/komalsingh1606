@@ -1,4 +1,4 @@
-[![MasterHead](https://thumbs.dreamstime.com/b/vector-line-web-concept-programming-linear-banner-coding-118175196.jpg)
+![MasterHead](https://thumbs.dreamstime.com/b/vector-line-web-concept-programming-linear-banner-coding-118175196.jpg)
 <h1 align="center">Hi 👋, I'm Komal Singh</h1>
 <h3 align="center">Machine Learning Aspirant</h3>
 <img align="right" alt="coding" width="400" src="https://www.businessprocessincubator.com/wp-content/uploads/2021/01/data-science-job-myths.gif"></img>
