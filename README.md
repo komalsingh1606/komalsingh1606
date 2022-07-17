@@ -29,4 +29,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=komalsingh1606&" alt="komalsingh1606" /></p>
 <h3 align="left">Logo:</h3>
 
-<img src="https://user-images.githubusercontent.com/90690744/179428052-b2947539-c3bc-4607-9759-779a8cf46974.jpg" width="100" height="100"></img>
+<a href" https://www.canva.com/design/DAFGtn0ItM4/aTV_7QiHAzxJctbkqrA0HA/view?utm_content=DAFGtn0ItM4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"<img src="https://user-images.githubusercontent.com/90690744/179428052-b2947539-c3bc-4607-9759-779a8cf46974.jpg" width="100" height="100">></img></a>
