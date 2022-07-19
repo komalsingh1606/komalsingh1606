@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Supervised Machine Learning**
 
-- 📫 How to reach me **komalsingh161297@gmail.com**komal.12107402@lpu.in**
+- 📫 How to reach me **komalsingh161297@gmail.com** **komal.12107402@lpu.in**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ChYBG7QWLyOR4X_0TN5vlCfiuUn3XqJe/view?usp=sharing](https://drive.google.com/file/d/1ChYBG7QWLyOR4X_0TN5vlCfiuUn3XqJe/view?usp=sharing)
 
