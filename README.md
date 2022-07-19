@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **Supervised Machine Learning**
 
-- 👯 I’m looking to collaborate on [The Crew Team](https://thecrewteam.netlify.app/)
+- 👯 I worked with [The Crew Team](https://thecrewteam.netlify.app/)
 
-- 🤝 I’m looking for help with [Tourism Team](https://bihartourism.netlify.app/)
+- 🤝 I contribute my effort together [Tourism Team](https://bihartourism.netlify.app/)
 
-- 👨‍💻 All of my projects are available at [https://komal-ml.netlify.app/](https://komal-ml.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/komalsingh1606/overview](https://app.netlify.com/teams/komalsingh1606/overview)
 
 - 📫 How to reach me **komalsingh161297@gmail.com**
 
