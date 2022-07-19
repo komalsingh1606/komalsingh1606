@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **komalsingh161297@gmail.com**/**komal.12107402@lpu.in**/**komal.12107402@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/15OQpbt6IPosDiaeuemAcETs5kyCz6ojn](https://drive.google.com/drive/u/0/folders/15OQpbt6IPosDiaeuemAcETs5kyCz6ojn)
+- 📄 Know about my experiences [https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/drive/u/0/my-drive)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
