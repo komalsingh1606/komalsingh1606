@@ -1,7 +1,6 @@
 ![MasterHead](https://thumbs.dreamstime.com/b/vector-line-web-concept-programming-linear-banner-coding-118175196.jpg)
 <h1 align="center">Hi 👋, I'm Komal Singh</h1>
 <h3 align="center">Machine Learning Aspirant</h3>
-<img align="right" alt="coding" width="400" src="https://www.businessprocessincubator.com/wp-content/uploads/2021/01/data-science-job-myths.gif"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=komalsingh1606&label=Profile%20views&color=0e75b6&style=flat" alt="komalsingh1606" /> </p>
 
@@ -9,9 +8,15 @@
 
 - 🌱 I’m currently learning **Supervised Machine Learning**
 
-- 📫 How to reach me **komalsingh161297@gmail.com**/**komal.12107402@lpu.in**/**komal.12107402@gmail.com**
+- 👯 I’m looking to collaborate on [The Crew Team](https://thecrewteam.netlify.app/)
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/drive/u/0/my-drive)
+- 🤝 I’m looking for help with [Tourism Team](https://bihartourism.netlify.app/)
+
+- 👨‍💻 All of my projects are available at [https://komal-ml.netlify.app/](https://komal-ml.netlify.app/)
+
+- 📫 How to reach me **komalsingh161297@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1vpBmxCj7CfilktcrfOmWNi-CMBQDqj0m/view?usp=sharing](https://drive.google.com/file/d/1vpBmxCj7CfilktcrfOmWNi-CMBQDqj0m/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,6 +32,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=komalsingh1606&show_icons=true&locale=en" alt="komalsingh1606" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=komalsingh1606&" alt="komalsingh1606" /></p>
-<h3 align="left">Logo:</h3>
-
-<img src="https://user-images.githubusercontent.com/90690744/179428052-b2947539-c3bc-4607-9759-779a8cf46974.jpg" width="100" height="100"></img>
