@@ -10,7 +10,7 @@
 
 - 👯 I worked with [The Crew Team](https://thecrewteam.netlify.app/)
 
-- 🤝 I contribute my effort together [Tourism Team](https://bihartourism.netlify.app/)
+- 🤝 I contribute my effort on [Tourism Team](https://bihartourism.netlify.app/)
 
 - 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/komalsingh1606/overview](https://app.netlify.com/teams/komalsingh1606/overview)
 
