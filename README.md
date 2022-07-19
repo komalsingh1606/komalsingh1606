@@ -13,7 +13,7 @@
 - 🤝 I contribute my effort on [Tourism Team](https://bihartourism.netlify.app/)
 
 
-- 📫 How to reach me **komalsingh161297@gmail.com**
+- 📫 How to reach me **komalsingh161297@gmail.com**/**komal.12107402@lpu.in**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1vpBmxCj7CfilktcrfOmWNi-CMBQDqj0m/view?usp=sharing](https://drive.google.com/file/d/1vpBmxCj7CfilktcrfOmWNi-CMBQDqj0m/view?usp=sharing)
 
