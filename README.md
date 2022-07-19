@@ -12,7 +12,6 @@
 
 - 🤝 I contribute my effort on [Tourism Team](https://bihartourism.netlify.app/)
 
-- 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/komalsingh1606/overview](https://app.netlify.com/teams/komalsingh1606/overview)
 
 - 📫 How to reach me **komalsingh161297@gmail.com**
 
