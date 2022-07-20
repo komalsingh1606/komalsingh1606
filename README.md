@@ -31,3 +31,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=komalsingh1606&show_icons=true&locale=en" alt="komalsingh1606" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=komalsingh1606&" alt="komalsingh1606" /></p>
+<a href="https://komal-ml.netlify.app/"><h2>About me </h2></a> 
+ <img src="https://user-images.githubusercontent.com/90690744/180027908-554984d5-1c1f-451c-bd93-860bd8e9adc9.gif">
+
+
