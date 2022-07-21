@@ -10,17 +10,21 @@
 
 - 👯 I worked with [The Crew Team](https://thecrewteam.netlify.app/)
 
-- 🤝 I contribute my effort on [Tourism Team](https://bihartourism.netlify.app/)
+- 🤝 I contribute my effort together [Tourism Team](https://bihartourism.netlify.app/)
 
+- 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/komalsingh1606/overview](https://app.netlify.com/teams/komalsingh1606/overview)
 
-- 📫 How to reach me **komalsingh161297@gmail.com**/**komal.12107402@lpu.in**
+- 📫 How to reach me **komalsingh161297@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1vpBmxCj7CfilktcrfOmWNi-CMBQDqj0m/view?usp=sharing](https://drive.google.com/file/d/1vpBmxCj7CfilktcrfOmWNi-CMBQDqj0m/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/komalsingh1612" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="komalsingh1612" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19496207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19496207" height="30" width="40" /></a>
 <a href="https://kaggle.com/komalsingh16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="komalsingh16" height="30" width="40" /></a>
+<a href="https://dribbble.com/https://komal-ml.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://komal-ml.netlify.app/" height="30" width="40" /></a>
+<a href="https://medium.com/@komalsingh161297" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@komalsingh161297" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -31,6 +35,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=komalsingh1606&show_icons=true&locale=en" alt="komalsingh1606" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=komalsingh1606&" alt="komalsingh1606" /></p>
-
-
-
