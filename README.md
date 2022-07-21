@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://komal-ml.netlify.app/" rel="nofollow"><img src="https://camo.githubusercontent.com/7d6dbca37b6b12eb2f01f49e70ab0ea7581571fcfb920120b591d13467b09e0c/68747470733a2f2f696d672e69636f6e73382e636f6d2f6475736b2f36342f3030303030302f646f6d61696e2e706e67"height="30" width="40" ></a>
+
 
 <a href="https://linkedin.com/in/komalsingh1612" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="komalsingh1612" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19496207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19496207" height="30" width="40" /></a>
