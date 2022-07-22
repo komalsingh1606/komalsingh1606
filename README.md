@@ -16,9 +16,8 @@
 
 - 📫 How to reach me **komalsingh161297@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1vpBmxCj7CfilktcrfOmWNi-CMBQDqj0m/view?usp=sharing](https://drive.google.com/file/d/1vpBmxCj7CfilktcrfOmWNi-CMBQDqj0m/view?usp=sharing">
-<input type="button" value="Resume">
-</a> 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1vpBmxCj7CfilktcrfOmWNi-CMBQDqj0m/view?usp=sharing](https://drive.google.com/file/d/1vpBmxCj7CfilktcrfOmWNi-CMBQDqj0m/view?usp=sharing) 
+ 
 
 
 <h3 align="left">Connect with me:</h3>
