@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/komalsingh1606/overview](https://app.netlify.com/teams/komalsingh1606/overview)
 
-- 📫 How to reach me **komalsingh161297@gmail.com**
+- 📫 How to reach me **komalsingh161297@gmail.com** / **komal.12107402@lpu.in**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1vpBmxCj7CfilktcrfOmWNi-CMBQDqj0m/view?usp=sharing](https://drive.google.com/file/d/1vpBmxCj7CfilktcrfOmWNi-CMBQDqj0m/view?usp=sharing) 
  
