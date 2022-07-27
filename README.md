@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Supervised Machine Learning**
 
-- 👯 I worked with [The Crew Team](https://thecrewteam.netlify.app/) This team basically work on designing the website
+- 👯 I worked with [The Crew Team](https://thecrewteam.netlify.app/) **This team basically work on designing the website**
 
 - 🤝 I contribute my effort together [Tourism Team](https://bihartourism.netlify.app/)
 
