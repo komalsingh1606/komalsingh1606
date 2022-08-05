@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Komal Singh </h1>
 <h3 align="center">Machine Learning Aspirant</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=komalsingh1606&label=Profile%20views&color=0e75b6&style=flat" alt="komalsingh1606" /> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=komalsingh1606&label=Profile%20views&color=0e75b6&style=flat" alt="komalsingh1606" /></p>
 
 - 🔭 I’m currently working on **Data Visualization**  [ For visualize the data I use<a href="https://public.tableau.com/app/profile/komal.singh7421/viz/RevenueVisualization_16586670717440/Dashboard1?publish=yes"> <b>Tableau</b> </a>]
 
