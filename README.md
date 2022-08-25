@@ -1,6 +1,6 @@
 ![MasterHead](https://thumbs.dreamstime.com/b/vector-line-web-concept-programming-linear-banner-coding-118175196.jpg)
 <h1 align="center">Hi 👋, I'm Komal Singh </h1> 
-<h3 align="center">Machine Learning Aspirant </h3>
+<h3 align="center">Machine Learning Aspirant</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=komalsingh1606&label=Profile%20views&color=0e75b6&style=flat" alt="komalsingh1606" /></p>
 
