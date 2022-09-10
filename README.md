@@ -15,8 +15,8 @@
 - 👨‍💻 My projects are available at [https://app.netlify.com/teams/komalsingh1606/overview](https://app.netlify.com/teams/komalsingh1606/overview)
 
 - 📫 How to reach me **komalsingh161297@gmail.com** / **komal.12107402@lpu.in**
-- <li><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> Ex Intern 
-- <a href="https://www.thesparksfoundationsingapore.org/" rel="nofollow">The Sparks Foundation</a>, <a href="https://home.kpmg/xx/en/home.html" rel="nofollow">KPMG</a>, <a href="https://home.kpmg/xx/en/home.html" rel="nofollow">Accenture Developer</a>, <a href="https://home.kpmg/xx/en/home.html" rel="nofollow">Accenture Consultant</a>, <a href="https://home.kpmg/xx/en/home.html" rel="nofollow">Suven Consultants &amp; Technology Pvt. Ltd.</a>, <a href="https://home.kpmg/xx/en/home.html" rel="nofollow">PWC </a></li>
+<g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> Ex Intern 
+- <a href="https://www.thesparksfoundationsingapore.org/" rel="nofollow">The Sparks Foundation</a>, <a href="https://home.kpmg/xx/en/home.html" rel="nofollow">KPMG</a>, <a href="https://home.kpmg/xx/en/home.html" rel="nofollow">Accenture Developer</a>, <a href="https://home.kpmg/xx/en/home.html" rel="nofollow">Accenture Consultant</a>, <a href="https://home.kpmg/xx/en/home.html" rel="nofollow">Suven Consultants &amp; Technology Pvt. Ltd.</a>, <a href="https://home.kpmg/xx/en/home.html" rel="nofollow">PWC </a>
 
 - 📄 Know about my experiences [[https://drive.google.com/file/d/1vpBmxCj7CfilktcrfOmWNi-CMBQDqj0m/view?usp=sharing](https://drive.google.com/file/d/13tI05DPNTLvL1RugkhfJvIK4F4i_VtIP/view)] 
  
