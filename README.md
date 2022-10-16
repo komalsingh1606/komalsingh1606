@@ -1,4 +1,7 @@
 ![MasterHead](https://thumbs.dreamstime.com/b/vector-line-web-concept-programming-linear-banner-coding-118175196.jpg)
+
+[gif.webm](https://user-images.githubusercontent.com/90690744/196045081-86c00516-8893-443e-ab10-de6ea52127e1.webm)
+
 <h1 align="center">Hi 👋, I'm Komal Singh</h1> 
 <h3 align="center">Machine Learning Aspirant</h3>
 
