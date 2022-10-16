@@ -1,4 +1,4 @@
- <img src="https://user-images.githubusercontent.com/90690744/196045687-c12c6bf0-1f32-46a4-a5ee-517a92b46418.gif" class="center">
+ <img src="https://user-images.githubusercontent.com/90690744/196045687-c12c6bf0-1f32-46a4-a5ee-517a92b46418.gif" align="center">
 
 <h1 align="center">Hi 👋, I'm Komal Singh</h1> 
 <h3 align="center">Machine Learning Aspirant</h3>
