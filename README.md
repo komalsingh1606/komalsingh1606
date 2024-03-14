@@ -13,7 +13,7 @@
 
 - 👯 Worked with [The Crew Team](https://thecrewteam.netlify.app/) **For Website Development**
 
-- 🤝 I contribute my effort together [Tourism Team](https://bihartourism.netlify.app/)**.** **We developed a website that shows all tourist places of Bihar**
+- 🤝 I contribute my effort together [Tourism Team](https://bihartourism.netlify.app/)**.** **We developed a website that shows all tourist places of Bihar.**
 
 - 👨‍💻 My projects are available at <a href = "https://app.netlify.com/teams/komalsingh1606/overview">Komal_site</a>
 
