@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Supervised Machine Learning**
 
-- 👯 I worked with [The Crew Team](https://thecrewteam.netlify.app/) [  **This team basically work on designing the website.**]
+- 👯 Worked with [The Crew Team](https://thecrewteam.netlify.app/) **For Website Development**
 
 - 🤝 I contribute my effort together [Tourism Team](https://bihartourism.netlify.app/) [ **Tourism team collects the information of tourist places of Bihar and make a website for tourist.**]
 
