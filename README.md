@@ -19,8 +19,6 @@
 
 - 📫 How to reach me **komalsingh161297@gmail.com** / **komal.12107402@lpu.in**
 
-
-- 📄 Know about my experiences <a href ="https://drive.google.com/file/d/1vtfKPJF-n6LFoYKjl5ku_NkfKrsmEOTH/view?usp=share_link">Komal_CV</a>
  
 
 
