@@ -1,6 +1,6 @@
  <p align="center">
  <img src="https://awesome-svg.vercel.app/card/card_2?name=komal%20singh&summary=Data%20Analytics&style=nameColor:rgba(0,0,0,1);summaryColor:rgba(90,6,6,1);backgroundColor:rgba(155,155,155,0.48);" />
- 
+
 <p>
 <h1 align="center">Hi 👋, I'm Komal Singh</h1> 
 <h3 align="center">"Assistant Professor" @ Chandighar University  </h3>
