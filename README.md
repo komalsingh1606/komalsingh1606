@@ -5,6 +5,7 @@
  
 <h3 align="center">"Assistant Professor" @ Chandighar University  </h3>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=komalsingh1606&label=Profile%20views&color=0e75b6&style=flat" alt="komalsingh1606" /></p>
 
 
