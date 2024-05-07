@@ -21,7 +21,6 @@
 
 - 📫 How to reach me **komalsingh161297@gmail.com** / **komal.12107402@lpu.in**
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/komalsingh1612" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="komalsingh1612" height="30" width="40" /></a>
